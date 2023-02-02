@@ -1,0 +1,5 @@
+{
+  "names": {
+    "Bing": "npub1up4qdmyec2r69xzgl8cjsrv5pp0e7asvsrv2gku7j5mgekx5jpjq5ncjyw"
+  }
+}
